@@ -7,7 +7,7 @@
         attr: [{ name: "type", value: "text/javascript" }],
         tag: "script",
         inner:
-          "var _Hasync= _Hasync|| [];\n_Hasync.push(['Histats.start', '1,4403915,4,0,0,0,00010000']);\n_Hasync.push(['Histats.fasi', '1']);\n_Hasync.push(['Histats.track_hits', '']);\n(function() {\nvar hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;\nhs.src = ('//s10.histats.com/js15_as.js');\n(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);\n})();",
+          "var _Hasync= _Hasync|| [];\n_Hasync.push(['Histats.start', '1,4639117,4,0,0,0,00010000']);\n_Hasync.push(['Histats.fasi', '1']);\n_Hasync.push(['Histats.track_hits', '']);\n(function() {\nvar hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;\nhs.src = ('//s10.histats.com/js15_as.js');\n(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);\n})();",
       },
       {
         attr: [],
